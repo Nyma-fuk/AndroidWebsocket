@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">websocketclient</string>
+    <!-- Property Values -->
+    <!-- Property1 Value -->
+    <string name="property_value_1">1</string>
+    <!-- Property2 Value -->
+    <string name="property_value_2">2</string>
+    <!-- Property3 Value -->
+    <string name="property_value_3">3</string>
+    <!-- Add more properties as needed -->
+    <string name="property_value_4">4</string>
+    <string name="property_value_5">5</string>
+    <string name="property_value_6">6</string>
+    <string name="property_value_7">7</string>
+    <string name="property_value_8">8</string>
+    <string name="property_value_9">9</string>
+    <string name="property_value_10">10</string>
+    <string name="property_value_11">11</string>
+    <string name="property_value_12">12</string>
+    <string name="property_value_13">13</string>
+    <string name="property_value_14">14</string>
+    <string name="property_value_15">15</string>
+    <string name="property_value_16">16</string>
+    <string name="property_value_17">17</string>
+    <string name="property_value_19">18</string>
+    <string name="property_value_20">19</string>
+    <string name="property_value_21">20</string>
+    <string name="property_value_22">21</string>
+    <string name="property_value_23">22</string>
+    <string name="property_value_24">23</string>
+    <string name="property_value_25">24</string>
+
+</resources>
